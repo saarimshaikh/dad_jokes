@@ -1,3 +1,7 @@
 # dad_jokes
-Basic implementaion of JavaScript, HTML and CSS
+Basic implementation of JavaScript, HTML, and CSS
 It generated random "Dad's Jokes" on click
+
+## Project Deployed Link:
+https://dadjokesss.netlify.app/
+
